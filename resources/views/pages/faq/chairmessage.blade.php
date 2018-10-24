@@ -9,7 +9,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="{{url('/images/logo.png')}}">
+                            <img src="{{url('/images/logo.gif')}}">
                         </div>
                         <div class="col-md-8">
                             <p style="color:black">Lorem, ipsum dolor sit amet consectetur adipisicing elit.

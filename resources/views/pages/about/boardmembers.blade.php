@@ -13,7 +13,7 @@
                     </div>
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Suman Thapa Magar</h3>
                                 <p>Chairman</p>
@@ -31,7 +31,7 @@
                     </div>
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Krishna Thapa Magar</h3>
                                 <p>Vice Chairman</p>
@@ -41,7 +41,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Krishna Thapa Magar</h3>
                                 <p>Secretary</p>
@@ -51,7 +51,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Samjhana Thapa Magar</h3>
                                 <p>Treasurer</p>
@@ -65,7 +65,7 @@
                 <div class="row">
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Shekhar Thapa Magar</h3>
                                 <p>Member</p>
@@ -75,7 +75,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Kumar Thapa Magar</h3>
                                 <p>Member</p>
@@ -85,7 +85,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Mira Thapa Magar</h3>
                                 <p>Member</p>
@@ -95,7 +95,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Hari Thapa Magar</h3>
                                 <p>Member</p>
@@ -105,7 +105,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Jayaram Thapa Magar</h3>
                                 <p>Member</p>
@@ -117,7 +117,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -138,7 +138,7 @@
                         </div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -151,7 +151,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -172,7 +172,7 @@
                         </div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -185,7 +185,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -206,7 +206,7 @@
                         </div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -219,7 +219,7 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>
@@ -240,7 +240,7 @@
                         </div>
                     <div class="col-md-3">
                         <div class="container">
-                        <img src="{{url('/images/logo.png')}}" alt="Manager" class="image" style="width:200px; height:auto;">
+                        <img src="{{url('/images/logo.gif')}}" alt="Manager" class="image" style="width:200px; height:auto;">
                         <div class="middle">
                             <a class="btn btn-success" href=''>Contact</a>
                         </div>

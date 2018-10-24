@@ -10,7 +10,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Sushila Thapa Magar</h3>
                                 <p>Manager</p>
@@ -30,7 +30,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Rajee Thapa Magar</h3>
                                 <p>Receptionist</p>
@@ -41,7 +41,7 @@
                 <div class="row">
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Babita Thapa Magar</h3>
                                 <p>Marketing</p>
@@ -51,7 +51,7 @@
                     
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Saru Thapa Magar</h3>
                                 <p>Marketing</p>

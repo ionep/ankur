@@ -10,16 +10,16 @@
                         <!-- Images used to open the lightbox -->
                         <div class="row">
                             <div class="col-md-3">
-                                <img src="{{url('/images/logo.png')}}" onclick="openModal();currentSlide(1)" class="hover-shadow">
+                                <img src="{{url('/images/logo.gif')}}" onclick="openModal();currentSlide(1)" class="hover-shadow">
                             </div>
                             <div class="col-md-3">
-                                <img src="{{url('/images/logo.png')}}" onclick="openModal();currentSlide(2)" class="hover-shadow">
+                                <img src="{{url('/images/logo.gif')}}" onclick="openModal();currentSlide(2)" class="hover-shadow">
                             </div>
                             <div class="col-md-3">
-                                <img src="{{url('/images/logo.png')}}" onclick="openModal();currentSlide(3)" class="hover-shadow">
+                                <img src="{{url('/images/logo.gif')}}" onclick="openModal();currentSlide(3)" class="hover-shadow">
                             </div>
                             <div class="col-md-3">
-                                <img src="{{url('/images/logo.png')}}" onclick="openModal();currentSlide(4)" class="hover-shadow">
+                                <img src="{{url('/images/logo.gif')}}" onclick="openModal();currentSlide(4)" class="hover-shadow">
                             </div>
                         </div>
                         <br>
@@ -36,22 +36,22 @@
                         
                                 <div class="mySlides text-center slide">
                                     {{-- <div class="numbertext">1 / 4</div> --}}
-                                    <img src="{{url('/images/logo.png')}}" style="width:50%;height:auto;">
+                                    <img src="{{url('/images/logo.gif')}}" style="width:50%;height:auto;">
                                 </div>
                             
                                 <div class="mySlides text-center slide">
                                     {{-- <div class="numbertext">2 / 4</div> --}}
-                                    <img src="{{url('/images/logo.png')}}" style="width:50%;height:auto;">
+                                    <img src="{{url('/images/logo.gif')}}" style="width:50%;height:auto;">
                                 </div>
                             
                                 <div class="mySlides text-center slide">
                                     {{-- <div class="numbertext">3 / 4</div> --}}
-                                    <img src="{{url('/images/logo.png')}}" style="width:50%;height:auto;">
+                                    <img src="{{url('/images/logo.gif')}}" style="width:50%;height:auto;">
                                 </div>
                             
                                 <div class="mySlides text-center slide">
                                     {{-- <div class="numbertext">4 / 4</div> --}}
-                                    <img src="{{url('/images/logo.png')}}" style="width:50%;height:auto;">
+                                    <img src="{{url('/images/logo.gif')}}" style="width:50%;height:auto;">
                                 </div>
 
                                 <div class="mySlides text-center slide">
@@ -69,19 +69,19 @@
                             
                                 <!-- Thumbnail image controls -->
                                 <div class="column">
-                                    <img class="demo" src="{{url('/images/logo.png')}}" onclick="currentSlide(1)" alt="Nature">
+                                    <img class="demo" src="{{url('/images/logo.gif')}}" onclick="currentSlide(1)" alt="Nature">
                                 </div>
                             
                                 <div class="column">
-                                    <img class="demo" src="{{url('/images/logo.png')}}" onclick="currentSlide(2)" alt="Snow">
+                                    <img class="demo" src="{{url('/images/logo.gif')}}" onclick="currentSlide(2)" alt="Snow">
                                 </div>
                             
                                 <div class="column">
-                                    <img class="demo" src="{{url('/images/logo.png')}}" onclick="currentSlide(3)" alt="Mountains">
+                                    <img class="demo" src="{{url('/images/logo.gif')}}" onclick="currentSlide(3)" alt="Mountains">
                                 </div>
                             
                                 <div class="column">
-                                    <img class="demo" src="{{url('/images/logo.png')}}" onclick="currentSlide(4)" alt="Lights">
+                                    <img class="demo" src="{{url('/images/logo.gif')}}" onclick="currentSlide(4)" alt="Lights">
                                 </div> --}}
                             </div>
                         </div>

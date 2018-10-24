@@ -10,7 +10,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Shekhar Thapa Magar</h3>
                                 <p>Coordinator</p>
@@ -20,7 +20,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Jayaram Thapa Magar</h3>
                                 <p>Member</p>
@@ -30,7 +30,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Gokul Thapa Magar</h3>
                                 <p>Member</p>

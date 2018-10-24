@@ -10,7 +10,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Rambhakta Thapa Magar</h3>
                             </div>
@@ -19,7 +19,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Ishwor Thapa Magar</h3>
                             </div>
@@ -28,7 +28,7 @@
 
                     <div class="column">
                         <div class="card">
-                            <img src="{{url('/images/logo.png')}}" alt="Staff" style="width:100%">
+                            <img src="{{url('/images/logo.gif')}}" alt="Staff" style="width:100%">
                             <div class="text-center">
                                 <h3>Mr. Ram Thapa Magar</h3>
                             </div>

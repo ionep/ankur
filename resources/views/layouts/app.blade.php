@@ -10,7 +10,7 @@
 
     <title>{{-- config('app.name', 'Ankur') --}}Ankur Saving and Credit Co-opertaive Ltd</title>
 
-    <link href="{{url('/images/logo.png')}}" rel="icon">
+    <link href="{{url('/images/logo.gif')}}" rel="icon">
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
