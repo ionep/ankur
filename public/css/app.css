@@ -8434,6 +8434,22 @@ body {
   font-weight: 600;
 }
 
+.navbar > .navbar-header > .navbar-toggle {
+  border: 1px solid white;
+}
+
+.navbar > .navbar-header > .navbar-toggle > .icon-bar {
+  background-color: white;
+}
+
+.navbar > .navbar-header > .navbar-toggle:hover {
+  border: 1px solid black;
+}
+
+.navbar > .navbar-header > .navbar-toggle:hover .icon-bar {
+  background-color: black;
+}
+
 .navbar .nav a {
   color: black;
 }
