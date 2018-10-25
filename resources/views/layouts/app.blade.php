@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{-- config('app.name', 'Ankur') --}}Ankur Saving and Credit Co-opertaive Ltd</title>
+    <title>{{-- config('app.name', 'Ankur') --}}Ankur Saving and Credit Co-operative Ltd</title>
 
     <link href="{{url('/images/logo.gif')}}" rel="icon">
 
